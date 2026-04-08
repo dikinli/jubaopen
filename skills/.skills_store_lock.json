@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "akshare-stock": {
+      "name": "A股量化 AkShare",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=akshare-stock",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "market-analysis-cn": {
+      "name": "Market Analysis CN | 市场分析服务",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=market-analysis-cn",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "china-stock-analysis": {
+      "name": "China Stock Analysis",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=china-stock-analysis",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "stock-monitor-skill": {
+      "name": "Stock Monitor",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=stock-monitor-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "stock-watcher": {
+      "name": "Stock Watcher",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=stock-watcher",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "tavily-search": {
+      "name": "Tavily Web Search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=tavily-search",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-browser": {
+      "name": "Agent Browser",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-browser",
+      "source": "skillhub",
+      "version": "0.2.0"
+    },
+    "nano-pdf": {
+      "name": "Nano Pdf",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nano-pdf",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "auto-updater": {
+      "name": "Auto-Updater Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=auto-updater",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "openai-whisper": {
+      "name": "Openai Whisper",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openai-whisper",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
