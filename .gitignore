@@ -1,0 +1,13 @@
+# 敏感配置文件
+*.env
+*.env.local
+token.env
+config.json
+
+# 缓存文件
+skills/*/cache/
+
+# API Keys
+*api_key*
+*secret*
+*.token
